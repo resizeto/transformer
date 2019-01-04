@@ -1,0 +1,27 @@
+{
+  "name": "@resize.to/transformer",
+  "version": "0.0.1",
+  "description": "Transform an image stream using Sharp",
+  "author": "Brandon Aaron <hello.brandon@aaron.sh> (http://brandon.aaron.sh/)",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "standard --fix"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+  "peerDependencies": {
+    "sharp": "^0.21.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "sharp": "^0.21.1",
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.21",
+    "pump": "^3.0.0"
+  }
+}
