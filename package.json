@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Transform an image stream using Sharp",
   "author": "Brandon Aaron <hello.brandon@aaron.sh> (http://brandon.aaron.sh/)",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
