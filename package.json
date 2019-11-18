@@ -1,8 +1,9 @@
 {
   "name": "@resize.to/transformer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transform an image stream using Sharp",
   "author": "Fresh Codes <hello@fresh.codes> (https://fresh.codes/)",
+  "repository": "github:resizeto/transformer",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
