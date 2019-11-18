@@ -53,7 +53,7 @@ class TransformPipeline {
   }
 
   toFormat (format) {
-    let valid = ['jpeg', 'png', 'webp']
+    const valid = ['jpeg', 'png', 'webp']
     if (valid.indexOf(format) === -1) {
       throw new InvalidOutputFormatError(`${format} is not a supported output (${valid.join(',')})`)
     }
