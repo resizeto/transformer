@@ -1,6 +1,7 @@
 # resize.to transformer
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/resizeto/transformer.svg)](https://greenkeeper.io/)
+[![Coverage Status](https://coveralls.io/repos/github/resizeto/transformer/badge.svg?branch=master)](https://coveralls.io/github/resizeto/transformer?branch=master)
 
 Uses Sharp and streams to transform an image. It is meant to be used with an [options-parser](https://github.com/resizeto/options-parser). This is a building block for creating image transformation services.
 
